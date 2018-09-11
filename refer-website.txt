@@ -30,23 +30,6 @@ Design inspiration设计灵感，
 游乐场规划-Playground Planning，
 我们的公司-Our Company
 
-该公司的网站，产品是按照年龄设计的，分为
-++游乐场： 6个月到23个月，2岁-5岁，5-12岁，13+岁以上
-++组件：包括
-+Bridges & Ramps： 桥梁和斜坡
-+Climbers： 登山者
-+Decks 甲板
-+Enclosures 围栏 
-+Learning Wall 学习墙
-+Mainstructures  
-+Motion & More Fun 运动和更多乐趣
-+Overhead Events 
-+Roofs 屋顶
-+Sensory Play 感官游戏
-+Signs 迹象
-+Slides & Gliders 幻灯片和滑翔机
-+Structures 结构
-+Swings  秋千
-+Tunnels 隧道
+详见《usa.txt》
 --------------------
 
