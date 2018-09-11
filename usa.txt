@@ -1,0 +1,99 @@
+=============================
+search 搜索
+按照,
+-Age Range: 年龄范围
+-Play System: 玩的系统
+-Product Categories,产品类别
+-Component Type 部件类型
+
+例如：
+------------------
+https://www.playlsi.com/en/commercial-playground-equipment/playground-components/?componenttype=climbers&page=1&sort=5
+查询， `组件`为`climbers`.
+------------------
+=============================
+
+============================
+Product Categories 产品类别
+包括：
+Freestanding Play 独立游戏
+Shade 阴凉处 
+Site Furnishings 现场陈设
+Sports & Fitness 运动与健身
+Surfacing 堆焊
+============================
+
+============================
+该公司的网站，产品是按照年龄设计的，分为
+++游乐场： 6个月到23个月，2岁-5岁，5-12岁，13+岁以上
+============================
+
+============================
+`组件`,分类如下：
+----------
++Bridges & Ramps： 桥梁和斜坡
++Climbers： 登山者
++Decks 甲板
++Enclosures 围栏 
++Learning Wall 学习墙
++Mainstructures  
++Motion & More Fun 运动和更多乐趣
++Overhead Events 
++Roofs 屋顶
++Sensory Play 感官游戏
++Signs 迹象
++Slides & Gliders 幻灯片和滑翔机
++Structures 结构
++Swings  秋千
++Tunnels 隧道
+----------
+===========================
+
+===========================
+Playground Decks
+Playground Decks provide a firm foundation for your playground! The basic building blocks for any play structure, these playground decks provide a way for kids to safely climb, hang out and travel from one side of a play structure to another. Our one-piece flange-formed and punched, heavy-gauge steel is the strongest deck in the industry. Plus, TenderTuff and GripX coatings protect the deck from wear and tear.
+
+游乐场甲板,为您的游乐场提供坚实的基础！ 
+任何游乐设施的基本构建模块，这些游乐场甲板为孩子们提供了一种安全攀爬，闲逛和从游乐设施的一侧到另一侧的旅行的方式。 
+我们的一体式法兰成型和冲压重型钢是业内最强的甲板。 
+此外，TenderTuff和GripX涂层可保护甲板免受磨损。
+===========================
+
+===========================
+Playground Enclosures
+Adding Play Value While Keeping Your Playground Safe
+游乐场围栏
+在保持游乐场安全的同时增加游戏价值
+
+Enclosures complete your playground design by providing safe and exciting opportunities for interactive and multisensory fun. Our sturdy and safe playground panels are filled with interactive activities and encourage children of all ages and abilities to play side-by-side.
+Enclosures通过提供安全和令人兴奋的互动和多感官乐趣的机会，完善您的游乐场设计。 
+我们坚固安全的操场面板,充满了互动活动，鼓励所有年龄和能力的孩子并排玩耍。
+===========================
+
+===========================
+Braille and Clock Panel
+盲文和时钟面板
+
+ kids enjoy learning about time and Braille letters.
+孩子们喜欢学习时间和盲文字母。
+
+Bubble Panel 泡泡板
+The PlayBooster® Bubble Panel lets kids see all the playground sights safely through a durable polycarbonate window.
+PlayBooster®泡泡板让孩子们通过耐用的聚碳酸酯窗户安全地看到所有操场的景点。
+
+Chimes Panel 编钟小组
+Chimes Panel brings music to the playground, regardless of ability!
+无论能力如何，Chimes Panel都会为操场带来音乐！
+
+Bongo Reach Panel 邦戈面板
+Bongo Reach Panel lets kids of all ages and abilities make their own beautiful music on the playground. Encourages the creation of new games, rhythms and songs.
+Bongo Reach Panel让所有年龄和能力的孩子在操场上制作自己的优美音乐。
+
+Color Splash Panel™ 颜色飞溅面板
+
+Optigear Panel 齿轮优化面板
+
+Periscope Panel 潜望镜面板
+===========================
+
+
